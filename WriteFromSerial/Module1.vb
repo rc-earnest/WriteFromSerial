@@ -1,4 +1,11 @@
-﻿Imports System.Collections.Concurrent
+﻿'Rudy Earnest
+'RCET 33
+'Fall 2025
+'Experiment 9 task 1 code
+
+
+
+Imports System.Collections.Concurrent
 Imports System.IO.Ports
 Imports System.Runtime.CompilerServices
 Imports System.Security.AccessControl
